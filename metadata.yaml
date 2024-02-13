@@ -1,11 +1,16 @@
 _repo: The-Rambler-Club-s-house-boat_72766
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72766-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheppard, W. Crispin (William Henry)
     gutenberg_agent_id: '56803'
     url: http://www.gutenberg.org/2009/agents/56803
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72766#The-Rambler-Club-s-house-boat
 gutenberg_issued: '2024-01-20'
 gutenberg_type: Text
 identifiers:
